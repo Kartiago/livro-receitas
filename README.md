@@ -2,6 +2,7 @@
 
 Olá! Bem vindo ao nosso livro de receitas.
 
-- Acaraje
+- Acarajé
 - Vatapá
 - Caruru
+- Vinagrete
