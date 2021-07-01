@@ -6,3 +6,4 @@ Olá! Bem vindo ao nosso livro de receitas.
 - Vatapá
 - Caruru
 - Vinagrete
+- Bolo de estudante
